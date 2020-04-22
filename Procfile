@@ -1,1 +1,1 @@
-web:gunicorn app:helloherogit 
+web:gunicorn app:hello
